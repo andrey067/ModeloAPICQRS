@@ -19,7 +19,7 @@ namespace Api.Application.Controller
         public async Task<IActionResult> Create(UserDto user)
         {
             var response = await _userServices.Create(user);
-            return Ok(response.Data);
+            return Ok(response);
         }
     }
 }

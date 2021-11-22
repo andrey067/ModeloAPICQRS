@@ -1,6 +1,5 @@
 ﻿using Api.CrossCutting.Dtos;
 using Api.Domain.Commands;
-using Api.Domain.Entities;
 using Api.Domain.Handlers;
 using Api.Domain.Interfaces;
 using Api.Infrastructure.Context;
@@ -16,9 +15,9 @@ namespace Api.CrossCutting.Ioc
     {
         public static void RegisterServices(IServiceCollection services, IConfiguration configuration)
         {
-            services.AddScoped<IMongoDbClient<BaseEntity>, MongoDbClient<BaseEntity>>();
+            services.AddScoped(typeof(IMongoDbClient<>), typeof(MongoDbClient<>));
             services.AddScoped<IUserService, UserService>();
-            services.AddScoped<IBaseEntityForQueryRepository<BaseEntity>, BaseEntityForQueryRepository<BaseEntity>>();
+            services.AddScoped(typeof(IBaseEntityForQueryRepository<>), typeof(BaseEntityForQueryRepository<>));
 
             services.AddScoped<IRequestHandler<CreateUserCommand, CommandReturnDto>, CreateUserCommandHandler>();
 

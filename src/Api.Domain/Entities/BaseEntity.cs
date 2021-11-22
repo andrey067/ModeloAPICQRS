@@ -7,7 +7,7 @@ namespace Api.Domain.Entities
 {
     public abstract class BaseEntity
     {
-        public string setId()
+        public string SetId()
         {
             var id = Guid.NewGuid().ToString().Replace("-", string.Empty).Substring(0, 10).ToUpper();
             return Id = id;

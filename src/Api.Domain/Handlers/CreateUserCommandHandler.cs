@@ -39,9 +39,9 @@ namespace Api.Domain.Handlers
 
             try
             {
-                _baseEntityForQueryRepository.Create(user);
+                var response = _baseEntityForQueryRepository.Create(user);
 
-                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso", user));
+                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso", response));
 
             }
             catch (Exception e )

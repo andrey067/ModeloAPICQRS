@@ -48,3 +48,28 @@ H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\A
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.deps.json
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.AssemblyReference.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfoInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfo.cs
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CopyComplete
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb

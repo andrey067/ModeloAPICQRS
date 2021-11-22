@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xxHwpXoha7KzBLsNYkeF/NwQAq+dDUDYyvIprOLji/8PsUCUafMSZIGuxMZRnIWH7oqoegYAkX51JN4DOlugw==",
+  "dgSpecHash": "7CVKxTE9gadcmqVrQUwzW8ouKlMn8PQxI9L/CjGIN7tuAJagr9jcxaB9EIDx1/ZiJe8QjEGh7ZEvzJipdkYA/g==",
   "success": true,
-  "projectFilePath": "H:\\Meu Drive\\Cesta2IrmaoApi\\TesteApi\\src\\Api.Shared\\Api.Shared.csproj",
+  "projectFilePath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

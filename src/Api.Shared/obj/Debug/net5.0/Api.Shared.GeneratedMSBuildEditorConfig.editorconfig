@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Api.Shared
-build_property.ProjectDir = h:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Shared\
+build_property.ProjectDir = D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\

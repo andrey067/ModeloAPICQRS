@@ -26,7 +26,7 @@ namespace Api.Domain.Entities
 
         public User(Name name, string occupation, DateTime birthDate,DateTime dateRegister, Email email, bool verified)
         {
-            setId();
+            SetId();
             setNome(name);
             setOccupation(occupation);
             setBirthDate(birthDate);

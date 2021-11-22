@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Api.Infrastructure.Context
 {
-    public class MongoDbClient<T> : IMongoDbClient<T> where T : BaseEntity
+    public class MongoDbClient<T> : IMongoDbClient<T>
     {
         private readonly IMongoDatabase _mongoDatabase;
 
@@ -19,7 +19,7 @@ namespace Api.Infrastructure.Context
             _mongoDatabase = client.GetDatabase("cesta2irmaoDb");
         }
 
-        private protected string GetCollectionName(Type documentType)
+        private static string GetCollectionName(Type documentType)
         {
             return ((BsonCollectionAttribute)documentType.GetCustomAttributes(typeof(BsonCollectionAttribute), true).FirstOrDefault())?.CollectionName;
         }

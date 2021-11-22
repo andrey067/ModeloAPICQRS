@@ -1,34 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Meu Drive\\Cesta2IrmaoApi\\TesteApi\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {}
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {}
   },
   "projects": {
-    "H:\\Meu Drive\\Cesta2IrmaoApi\\TesteApi\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\Cesta2IrmaoApi\\TesteApi\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
+        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
         "projectName": "Api.CrossCutting.Dtos",
-        "projectPath": "H:\\Meu Drive\\Cesta2IrmaoApi\\TesteApi\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\Cesta2IrmaoApi\\TesteApi\\src\\Api.CrossCutting.Dtos\\obj\\",
+        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
+        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
