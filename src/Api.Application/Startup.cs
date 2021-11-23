@@ -1,19 +1,15 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Api.CrossCutting.AutoMapper;
+using Api.CrossCutting.Ioc;
+using Api.Infrastructure.Context;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
-using MediatR;
-using Api.CrossCutting.Ioc;
-using Api.CrossCutting.AutoMapper;
+using System;
 
 namespace Api.Application
 {
@@ -34,6 +30,10 @@ namespace Api.Application
             services.AddHealthChecks();
             services.AddMediatR(typeof(Startup));
             services.RegisterMappers();
+
+            services.Configure<MongoDbConfig>(Configuration.GetSection("ConnectionStringMongo"));
+
+            services.AddSingleton<IMongoDbConfig>(serviceProvider => serviceProvider.GetRequiredService<IOptions<MongoDbConfig>>().Value);
 
             IocBootstrapper.RegisterServices(services, Configuration);
             services.AddSwaggerGen(c =>

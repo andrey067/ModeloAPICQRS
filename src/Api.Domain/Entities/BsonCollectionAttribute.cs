@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Api.Infrastructure.Context
+namespace Api.Domain.Context
 {
     [AttributeUsage(AttributeTargets.Class, Inherited = false)]
     public class BsonCollectionAttribute : Attribute

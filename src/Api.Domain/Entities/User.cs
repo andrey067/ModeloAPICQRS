@@ -1,10 +1,12 @@
 using System;
+using Api.Domain.Context;
 using Api.Domain.Entities.ValueObject;
 using Api.Domain.Validators;
 using Api.Shared.Exceptions;
 
 namespace Api.Domain.Entities
 {
+    [BsonCollection("User")]
     public class User : BaseEntity
     {
         public Name Name { get; private set; }
@@ -19,12 +21,12 @@ namespace Api.Domain.Entities
         {
             setNome(name);
             setOccupation(occupation);
-            setBirthDate(birthDate);            
+            setBirthDate(birthDate);
             setEmail(email);
             setVerified(verified);
         }
 
-        public User(Name name, string occupation, DateTime birthDate,DateTime dateRegister, Email email, bool verified)
+        public User(Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
         {
             SetId();
             setNome(name);

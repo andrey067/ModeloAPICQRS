@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 namespace Api.Infrastructure.Context
 {
     public interface IMongoDbClient<T>
-    {
-        IMongoCollection<T> Collection { get; }
+    {        
         IQueryable<T> GetAll();
         IQueryable<T> Get(string Id);
 

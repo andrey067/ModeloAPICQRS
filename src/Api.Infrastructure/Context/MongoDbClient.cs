@@ -1,5 +1,4 @@
-﻿using Api.Domain.Entities;
-using Microsoft.Extensions.Configuration;
+﻿using Api.Domain.Context;
 using MongoDB.Driver;
 using System;
 using System.Linq;
@@ -7,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Api.Infrastructure.Context
 {
-    public class MongoDbClient<T> : IMongoDbClient<T>
-    {
-        private readonly IMongoDatabase _mongoDatabase;
+    public class MongoDbClient<T> : IMongoDbClient<T> where T: BaseRepository
+    {        
+        public IMongoCollection<T> Collection;
 
-        public IMongoCollection<T> Collection => _mongoDatabase.GetCollection<T>(GetCollectionName(typeof(T)));
+        public MongoDbClient(IMongoDbConfig settings)
+        {           
+            var client = new MongoClient(settings.Connection_String).GetDatabase(settings.DataBase_Name);
+            var database = client.GetCollection<T>(GetCollectionName(typeof(T));
+            _collection = database.GetCollection<TDocument>(GetCollectionName(typeof(TDocument)));
 
-        public MongoDbClient(IConfiguration configuration)
-        {
-            var client = new MongoClient(configuration.GetConnectionString("ConnectionStringMongo"));
-            _mongoDatabase = client.GetDatabase("cesta2irmaoDb");
         }
 
         private static string GetCollectionName(Type documentType)

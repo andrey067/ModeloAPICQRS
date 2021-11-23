@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 
 namespace Api.Domain.Entities
-{
+{   
     public abstract class BaseEntity
     {
         public string SetId()

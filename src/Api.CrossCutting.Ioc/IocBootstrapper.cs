@@ -15,7 +15,8 @@ namespace Api.CrossCutting.Ioc
     {
         public static void RegisterServices(IServiceCollection services, IConfiguration configuration)
         {
-            services.AddScoped(typeof(IMongoDbClient<>), typeof(MongoDbClient<>));
+            //services.AddScoped(typeof(IMongoDbClient<>), typeof(MongoDbClient<>));
+            
             services.AddScoped<IUserService, UserService>();
             services.AddScoped(typeof(IBaseEntityForQueryRepository<>), typeof(BaseEntityForQueryRepository<>));
 
