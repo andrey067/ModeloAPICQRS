@@ -31,9 +31,6 @@ namespace Api.Application
             services.AddMediatR(typeof(Startup));
             services.RegisterMappers();
 
-            services.Configure<MongoDbConfig>(Configuration.GetSection("ConnectionStringMongo"));
-
-            services.AddSingleton<IMongoDbConfig>(serviceProvider => serviceProvider.GetRequiredService<IOptions<MongoDbConfig>>().Value);
 
             IocBootstrapper.RegisterServices(services, Configuration);
             services.AddSwaggerGen(c =>

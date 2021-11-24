@@ -1,9 +1,5 @@
 using Api.CrossCutting.Dtos;
-using Api.Domain.Builders;
 using Api.Domain.Commands;
-using Api.Domain.Entities;
-using Api.Domain.Interfaces;
-using AutoMapper;
 using MediatR;
 using System;
 using System.Threading;
@@ -13,42 +9,37 @@ namespace Api.Domain.Handlers
 {
     public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, CommandReturnDto>
     {
-        private readonly IBaseEntityForQueryRepository<User> _baseEntityForQueryRepository;
-        private readonly IMapper _mapper;
-
-        public CreateUserCommandHandler(IBaseEntityForQueryRepository<User> baseEntityForQueryRepository, IMapper mapper)
-        {
-            _baseEntityForQueryRepository = baseEntityForQueryRepository;
-            _mapper = mapper;
-        }
 
 
         public Task<CommandReturnDto> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
-            var user = new UserBuilder()
-                .WithName(request.Name)
-                .WithOccupation(request.Occupation)
-                .WithBirthDate(request.BirthDate)
-                .WithDateRegister()
-                .WithEmail(request.Email)
-                .WithVerified(true)
-                .CreateUserBuilder();
 
-            if (!user.Validate())
-                return Task.FromResult(new CommandReturnDto(false, "Erros foram encontrados", user));
+            throw new NotImplementedException();
 
-            try
-            {
-                var response = _baseEntityForQueryRepository.Create(user);
+            //var user = new UserBuilder()
+            //    .WithName(request.Name)
+            //    .WithOccupation(request.Occupation)
+            //    .WithBirthDate(request.BirthDate)
+            //    .WithDateRegister()
+            //    .WithEmail(request.Email)
+            //    .WithVerified(true)
+            //    .CreateUserBuilder();
 
-                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso", response));
+            //if (!user.Validate())
+            //    return Task.FromResult(new CommandReturnDto(false, "Erros foram encontrados", user));
 
-            }
-            catch (Exception e )
-            {
-                var retornoComErro = new CommandReturnDto(false, "Erro no cadastro", e.Message);
-                return Task.FromResult(retornoComErro);
-            }
+            //try
+            //{
+            //    var response = _baseEntityForQueryRepository.Create(user);
+
+            //    return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso", response));
+
+            //}
+            //catch (Exception e)
+            //{
+            //    var retornoComErro = new CommandReturnDto(false, "Erro no cadastro", e.Message);
+            //    return Task.FromResult(retornoComErro);
+            //}
         }
     }
 }
