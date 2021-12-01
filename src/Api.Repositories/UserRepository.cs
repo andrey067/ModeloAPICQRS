@@ -1,12 +1,12 @@
 ﻿using Api.Domain.Entities;
 using Api.Domain.Interfaces;
-using Api.Repositories;
+using Api.Infrastructure.Context;
 
-namespace Api.Infrastructure.Context
+namespace Api.Repositories
 {
     public class UserRepository : BaseRepository<User>, IUserRepository
     {
-        public UserRepository(IMongoContext context) : base(context)
+        public UserRepository(IMongoDbClient context) : base(context)
         {
         }
     }

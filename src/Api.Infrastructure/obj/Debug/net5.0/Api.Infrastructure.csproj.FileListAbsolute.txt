@@ -55,3 +55,22 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Infrastructure\obj\Debug\net5.0\Ap
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Infrastructure\obj\Debug\net5.0\ref\Api.Infrastructure.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.csproj.AssemblyReference.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.AssemblyInfoInputs.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.AssemblyInfo.cs
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\ref\Api.Infrastructure.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.Infrastructure.deps.json
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.Infrastructure.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\ref\Api.Infrastructure.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.Infrastructure.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.Domain.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.Shared.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.Domain.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\bin\Debug\net5.0\Api.Shared.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Infrastructure\obj\Debug\net5.0\Api.Infrastructure.csproj.CopyComplete

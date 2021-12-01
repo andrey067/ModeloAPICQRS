@@ -4,10 +4,8 @@ using System.Threading.Tasks;
 
 namespace Api.Infrastructure.Context
 {
-    public interface IMongoContext : IDisposable
-    {
-        void AddCommand(Func<Task> func);
-        Task<int> SaveChanges();
+    public interface IMongoDbClient
+    {       
         IMongoCollection<T> GetCollection<T>(string name);
     }
 }

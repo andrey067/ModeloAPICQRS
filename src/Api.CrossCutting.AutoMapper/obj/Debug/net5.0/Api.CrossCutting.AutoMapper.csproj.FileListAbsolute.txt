@@ -55,3 +55,22 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\ref\Api.CrossCutting.AutoMapper.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.CrossCutting.AutoMapper.deps.json
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.CrossCutting.AutoMapper.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\ref\Api.CrossCutting.AutoMapper.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.CrossCutting.AutoMapper.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.Domain.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.Shared.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.Domain.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\bin\Debug\net5.0\Api.Shared.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.csproj.AssemblyReference.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.AssemblyInfoInputs.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.AssemblyInfo.cs
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.csproj.CopyComplete
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\ref\Api.CrossCutting.AutoMapper.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.AutoMapper\obj\Debug\net5.0\Api.CrossCutting.AutoMapper.pdb

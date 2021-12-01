@@ -4,5 +4,6 @@ namespace Api.Domain.Interfaces
 {
     public interface IUserRepository : IBaseRepository<User>
     {
+
     }
 }

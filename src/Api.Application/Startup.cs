@@ -1,13 +1,11 @@
 using Api.CrossCutting.AutoMapper;
 using Api.CrossCutting.Ioc;
-using Api.Infrastructure.Context;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Options;
 using Microsoft.OpenApi.Models;
 using System;
 
@@ -27,12 +25,17 @@ namespace Api.Application
         {
 
             services.AddControllers();
+            
+            services.AddControllersWithViews().AddNewtonsoftJson(options =>
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
             services.AddHealthChecks();
             services.AddMediatR(typeof(Startup));
             services.RegisterMappers();
 
-
             IocBootstrapper.RegisterServices(services, Configuration);
+
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo

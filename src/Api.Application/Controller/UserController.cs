@@ -21,5 +21,21 @@ namespace Api.Application.Controller
             var response = await _userServices.Create(user);
             return Ok(response);
         }
+
+        [Route("/api/v1/user/get")]
+        [HttpGet]
+        public async Task<IActionResult> GetById(string guid)
+        {
+            var response = await _userServices.Get(guid);
+            return Ok(response);
+        }
+
+        [Route("/api/v1/user/getAll")]
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
+        {
+            var response = await _userServices.GetAll();
+            return Ok(response);
+        }
     }
 }

@@ -1,4 +1,9 @@
 ﻿using Api.CrossCutting.Dtos;
+using Api.Domain.Commands;
+using Api.Domain.Entities;
+using Api.Domain.Interfaces;
+using AutoMapper;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -7,19 +12,30 @@ namespace Api.Services
 {
     public class UserService : IUserService
     {
-        public async Task<CommandReturnDto> Create(UserDto userdto)
+        private readonly IMediator _mediator;
+        private readonly IMapper _mapper;
+        private readonly IUserRepository _userRepository;
+
+        public UserService(IMediator mediator, IMapper mapper, IUserRepository userRepository)
         {
-            throw new NotImplementedException();
+            _mediator = mediator;
+            _mapper = mapper;
+            _userRepository = userRepository;
         }
 
-        public Task<CommandReturnDto> Get(long id)
+        public async Task<CommandReturnDto> Create(UserDto userdto) => await _mediator.Send(_mapper.Map<CreateUserCommand>(userdto));
+
+        public async Task<CommandReturnDto> Get(string id)
         {
-            throw new NotImplementedException();
+            var result = await _userRepository.Get(id);
+            if (result != null)
+                return new CommandReturnDto(true, "Dados encontrados", result);
+            return new CommandReturnDto(false, "Erros foram encontrados", result);
         }
 
-        public Task<List<UserDto>> GetAll()
+        public async Task<List<User>> GetAll()
         {
-            throw new NotImplementedException();
+            return await _userRepository.GetAll();
         }
 
         public Task Remove(long id)

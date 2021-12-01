@@ -34,3 +34,15 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\ref\Api.Shared.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.deps.json
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\bin\Debug\net5.0\ref\Api.Shared.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.csproj.AssemblyReference.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.AssemblyInfoInputs.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.AssemblyInfo.cs
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\ref\Api.Shared.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.pdb

@@ -1,15 +1,15 @@
-﻿using System;
+﻿using Api.Domain.Entities;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Api.Domain.Interfaces
 {
-    public interface IBaseRepository<T> : IDisposable where T : class
+    public interface IBaseRepository<T> where T : BaseEntity
     {
-        Task Add(T obj);
-        Task<T> GetById(Guid id);
-        Task<IEnumerable<T>> GetAll();
-        Task Update(T obj);
-        Task Remove(Guid id);
+        Task<T> Create(T obj);
+        Task<T> Update(T obj);
+        Task Remove(long id);
+        Task<T> Get(string id);
+        Task<List<T>> GetAll();
     }
 }

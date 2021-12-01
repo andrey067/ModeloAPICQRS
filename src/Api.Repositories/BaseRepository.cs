@@ -1,48 +1,50 @@
-﻿using Api.Domain.Interfaces;
+﻿using Api.Domain.Entities;
+using Api.Domain.Interfaces;
+using Api.Infrastructure.Context;
+using MongoDB.Bson;
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace Api.Repositories
 {
-    public class BaseRepository<T> : IBaseRepository<T> where T : class
+    public class BaseRepository<T> : IBaseRepository<T> where T : BaseEntity
     {
-        protected readonly IMongoContext _context;
-        protected readonly IMongoCollection<T> DbSet;
+        private readonly IMongoDbClient _mongoDbClient;
+        private readonly IMongoCollection<T> DbSet;
 
-        protected BaseRepository(IMongoContext context)
+        public BaseRepository(IMongoDbClient mongoDbClient)
         {
-            _context = context;
-            DbSet = _context.GetCollection<T>(typeof(T).Name);
+            _mongoDbClient = mongoDbClient;
+            DbSet = _mongoDbClient.GetCollection<T>(typeof(T).Name);
         }
 
-        public Task Add(T obj)
+        public virtual async Task<T> Create(T obj)
         {
-            throw new NotImplementedException();
+            await DbSet.InsertOneAsync(obj);
+            return await Get(obj._id);
         }
 
-        public void Dispose()
+        public virtual async Task<T> Get(string id)
         {
-            throw new NotImplementedException();
+            var _id = new ObjectId(id);
+            var filter = Builders<T>.Filter.Eq("_id", _id);
+            return DbSet.Find(filter).SingleOrDefault();
         }
 
-        public Task<IEnumerable<T>> GetAll()
+        public async Task<List<T>> GetAll()
         {
-            throw new NotImplementedException();
+            return await DbSet.AsQueryable().ToListAsync();
         }
 
-        public Task<T> GetById(Guid id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task Remove(Guid id)
+        public Task Remove(long id)
         {
             throw new NotImplementedException();
         }
 
-        public Task Update(T obj)
+        public Task<T> Update(T obj)
         {
             throw new NotImplementedException();
         }
