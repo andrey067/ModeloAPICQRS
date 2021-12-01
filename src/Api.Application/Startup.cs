@@ -24,11 +24,7 @@ namespace Api.Application
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddControllers();
-            
-            services.AddControllersWithViews().AddNewtonsoftJson(options =>
-            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
-
+            services.AddControllers();                    
             services.AddHealthChecks();
             services.AddMediatR(typeof(Startup));
             services.RegisterMappers();

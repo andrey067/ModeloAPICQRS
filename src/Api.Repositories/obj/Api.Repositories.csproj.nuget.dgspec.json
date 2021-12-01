@@ -1,34 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Repositories\\Api.Repositories.csproj": {}
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj": {}
   },
   "projects": {
-    "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
+        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
         "projectName": "Api.CrossCutting.Dtos",
-        "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Dtos\\obj\\",
+        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
+        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -64,41 +63,40 @@
         }
       }
     },
-    "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj": {
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj",
+        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj",
         "projectName": "Api.Domain",
-        "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\obj\\",
+        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
-                "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj"
+              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
+                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj"
               },
-              "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Shared\\Api.Shared.csproj": {
-                "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Shared\\Api.Shared.csproj"
+              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj": {
+                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj"
               }
             }
           }
@@ -149,38 +147,37 @@
         }
       }
     },
-    "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
         "projectName": "Api.Infrastructure",
-        "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\obj\\",
+        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj"
+              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj"
               }
             }
           }
@@ -227,41 +224,40 @@
         }
       }
     },
-    "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Repositories\\Api.Repositories.csproj": {
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Repositories\\Api.Repositories.csproj",
+        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj",
         "projectName": "Api.Repositories",
-        "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Repositories\\Api.Repositories.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Repositories\\obj\\",
+        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj",
+        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj"
+              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj"
               },
-              "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
-                "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
+              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
+                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
               }
             }
           }
@@ -294,31 +290,30 @@
         }
       }
     },
-    "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Shared\\Api.Shared.csproj": {
+    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Shared\\Api.Shared.csproj",
+        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj",
         "projectName": "Api.Shared",
-        "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Shared\\Api.Shared.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Shared\\obj\\",
+        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj",
+        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {

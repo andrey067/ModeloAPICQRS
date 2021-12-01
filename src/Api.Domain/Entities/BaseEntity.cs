@@ -13,8 +13,7 @@ namespace Api.Domain.Entities
             var id = Guid.NewGuid().ToString().Replace("-", string.Empty).Substring(0, 10).ToUpper();
             return _id = id;
         }
-
-        [BsonId(IdGenerator = typeof(StringObjectIdGenerator))]
+        
         [BsonRepresentation(BsonType.ObjectId)]
         public string _id { get; private set; }
 

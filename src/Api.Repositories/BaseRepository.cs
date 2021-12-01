@@ -29,9 +29,9 @@ namespace Api.Repositories
 
         public virtual async Task<T> Get(string id)
         {
-            var _id = new ObjectId(id);
-            var filter = Builders<T>.Filter.Eq("_id", _id);
-            return DbSet.Find(filter).SingleOrDefault();
+            var _id = ObjectId.Parse(id);
+            var filter = Builders<T>.Filter.Eq("_id", id);
+            return await DbSet.Find(filter).SingleAsync();
         }
 
         public async Task<List<T>> GetAll()

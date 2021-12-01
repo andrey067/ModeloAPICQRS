@@ -270,3 +270,7 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
