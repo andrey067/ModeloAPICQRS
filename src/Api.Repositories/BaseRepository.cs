@@ -1,5 +1,4 @@
-﻿using Api.Domain.Entities;
-using Api.Domain.Interfaces;
+﻿using Api.Domain.Interfaces;
 using Api.Infrastructure.Context;
 using MongoDB.Bson;
 using MongoDB.Driver;
@@ -10,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Api.Repositories
 {
-    public class BaseRepository<T> : IBaseRepository<T> where T : BaseEntity
+    public class BaseRepository<T> : IBaseRepository<T> where T : class
     {
         private readonly IMongoDbClient _mongoDbClient;
         private readonly IMongoCollection<T> DbSet;
@@ -21,16 +20,15 @@ namespace Api.Repositories
             DbSet = _mongoDbClient.GetCollection<T>(typeof(T).Name);
         }
 
-        public virtual async Task<T> Create(T obj)
+        public virtual async void Create(T obj)
         {
             await DbSet.InsertOneAsync(obj);
-            return await Get(obj._id);
         }
 
         public virtual async Task<T> Get(string id)
         {
-            var _id = ObjectId.Parse(id);
-            var filter = Builders<T>.Filter.Eq("_id", id);
+            var _id = new ObjectId(id);
+            var filter = Builders<T>.Filter.Eq("_id", _id);
             return await DbSet.Find(filter).SingleAsync();
         }
 

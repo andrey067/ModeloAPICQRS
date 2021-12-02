@@ -40,27 +40,6 @@ H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Repositories\obj\Debug\net5.0\Api.R
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Repositories\obj\Debug\net5.0\ref\Api.Repositories.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\ref\Api.Repositories.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Infrastructure.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Infrastructure.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.csproj.AssemblyReference.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.AssemblyInfoInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.AssemblyInfo.cs
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.csproj.CopyComplete
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\ref\Api.Repositories.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.pdb
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.deps.json
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Repositories\bin\Debug\net5.0\ref\Api.Repositories.dll
@@ -82,3 +61,24 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Repositories\obj\Debug\net5.0
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Repositories\obj\Debug\net5.0\ref\Api.Repositories.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.deps.json
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\ref\Api.Repositories.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Repositories.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Infrastructure.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Domain.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Infrastructure.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\bin\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.csproj.AssemblyReference.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.AssemblyInfoInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.AssemblyInfo.cs
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.csproj.CoreCompileInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.csproj.CopyComplete
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\ref\Api.Repositories.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Repositories\obj\Debug\net5.0\Api.Repositories.pdb

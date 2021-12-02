@@ -22,18 +22,6 @@ H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Shared\obj\Debug\net5.0\Api.Shared.
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Shared\obj\Debug\net5.0\Api.Shared.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Shared\obj\Debug\net5.0\ref\Api.Shared.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Shared\obj\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\ref\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.csproj.AssemblyReference.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.AssemblyInfoInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.AssemblyInfo.cs
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\ref\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.pdb
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.deps.json
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\bin\Debug\net5.0\ref\Api.Shared.dll
@@ -46,3 +34,14 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.S
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\ref\Api.Shared.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.deps.json
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\ref\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\bin\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.AssemblyInfoInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.AssemblyInfo.cs
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.csproj.CoreCompileInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\ref\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.pdb

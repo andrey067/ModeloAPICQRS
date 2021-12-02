@@ -4,9 +4,9 @@ using System.Threading.Tasks;
 
 namespace Api.Domain.Interfaces
 {
-    public interface IBaseRepository<T> where T : BaseEntity
+    public interface IBaseRepository<T> where T : class
     {
-        Task<T> Create(T obj);
+        void Create(T obj);
         Task<T> Update(T obj);
         Task Remove(long id);
         Task<T> Get(string id);

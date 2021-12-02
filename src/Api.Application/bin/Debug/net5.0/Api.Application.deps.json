@@ -727,6 +727,7 @@
       },
       "Api.CrossCutting.Ioc/1.0.0": {
         "dependencies": {
+          "Api.Domain.Mongo": "1.0.0",
           "Api.Infrastructure": "1.0.0",
           "Api.Repositories": "1.0.0",
           "Api.Services": "1.0.0",
@@ -754,6 +755,17 @@
         },
         "compile": {
           "Api.Domain.dll": {}
+        }
+      },
+      "Api.Domain.Mongo/1.0.0": {
+        "dependencies": {
+          "Api.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Api.Domain.Mongo.dll": {}
+        },
+        "compile": {
+          "Api.Domain.Mongo.dll": {}
         }
       },
       "Api.Infrastructure/1.0.0": {
@@ -2713,6 +2725,11 @@
       "sha512": ""
     },
     "Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Api.Domain.Mongo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

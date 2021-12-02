@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JRVKarKsgYxhoep7eRm5TzPBxD7HgaXFKo8U+Bu5SfRAjLeUROAkelC2z2Yxl5o+/0nw2yeziNDf5ZV5L0CGrg==",
+  "dgSpecHash": "tTm7yUtcj+BN2WiIlnUHnDC20wq8FIKY5H5DiUyHdWI5AAQ9gnml3wnggpC0QMu15f+k3gflu1NQP9HAD48e1g==",
   "success": true,
   "projectFilePath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
   "expectedPackageFiles": [

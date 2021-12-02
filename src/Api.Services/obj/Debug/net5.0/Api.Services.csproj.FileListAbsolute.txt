@@ -36,25 +36,6 @@ H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Services\obj\Debug\net5.0\Api.Servi
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Services\obj\Debug\net5.0\Api.Services.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Services\obj\Debug\net5.0\ref\Api.Services.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Services\obj\Debug\net5.0\Api.Services.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\ref\Api.Services.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.csproj.AssemblyReference.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.AssemblyInfoInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.AssemblyInfo.cs
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.csproj.CopyComplete
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\ref\Api.Services.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.pdb
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.deps.json
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Services\bin\Debug\net5.0\ref\Api.Services.dll
@@ -74,3 +55,22 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Services\obj\Debug\net5.0\Api
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Services\obj\Debug\net5.0\ref\Api.Services.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.deps.json
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\ref\Api.Services.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Services.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Domain.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\bin\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.csproj.AssemblyReference.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.AssemblyInfoInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.AssemblyInfo.cs
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.csproj.CoreCompileInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.csproj.CopyComplete
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\ref\Api.Services.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Services\obj\Debug\net5.0\Api.Services.pdb

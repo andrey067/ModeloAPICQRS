@@ -1,12 +1,13 @@
 using System;
 using Api.Domain.Entities;
 using Api.Domain.Entities.ValueObject;
+using MongoDB.Bson;
 
 namespace Api.Domain.Builders
 {
     public class UserBuilder : IUserBuilder
     {
-        private string _id;
+        private ObjectId _id;
         private Name _name;
         private string _occupation;
         private DateTime _birthDate;
@@ -52,7 +53,7 @@ namespace Api.Domain.Builders
             return this;
         }
 
-        public IUserBuilder WithId(string id)
+        public IUserBuilder WithId(ObjectId id)
         {
             _id = id;
             return this;

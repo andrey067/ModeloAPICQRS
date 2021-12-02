@@ -10,6 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Api.Domain.Mongo\Api.Domain.Mongo.csproj" />
     <ProjectReference Include="..\Api.Infrastructure\Api.Infrastructure.csproj" />
     <ProjectReference Include="..\Api.Repositories\Api.Repositories.csproj" />
     <ProjectReference Include="..\Api.Services\Api.Services.csproj" />

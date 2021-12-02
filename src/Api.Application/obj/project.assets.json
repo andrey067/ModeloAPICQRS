@@ -455,6 +455,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Api.Domain.Mongo": "1.0.0",
           "Api.Infrastructure": "1.0.0",
           "Api.Repositories": "1.0.0",
           "Api.Services": "1.0.0",
@@ -484,6 +485,19 @@
         },
         "runtime": {
           "bin/placeholder/Api.Domain.dll": {}
+        }
+      },
+      "Api.Domain.Mongo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Api.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Api.Domain.Mongo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Domain.Mongo.dll": {}
         }
       },
       "Api.Infrastructure/1.0.0": {
@@ -1305,6 +1319,11 @@
       "type": "project",
       "path": "../Api.Domain/Api.Domain.csproj",
       "msbuildProject": "../Api.Domain/Api.Domain.csproj"
+    },
+    "Api.Domain.Mongo/1.0.0": {
+      "type": "project",
+      "path": "../Api.Domain.Mongo/Api.Domain.Mongo.csproj",
+      "msbuildProject": "../Api.Domain.Mongo/Api.Domain.Mongo.csproj"
     },
     "Api.Infrastructure/1.0.0": {
       "type": "project",

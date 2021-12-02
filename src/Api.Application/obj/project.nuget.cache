@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8Ese+Cph5pIytwHafJu1CspnbRF67NK7FjEor2/DywWHlBnM9cLsX3h0BmzFJ2ZCDlg9vRAUcPgMqjzJiaDSXw==",
+  "dgSpecHash": "zi05st07DEuCyDEHjfIjIDdoluKcVYPDO8GixAjEp6H9SAr9IZcrqC9jao3TxMuYQBwJ0S232yNIZq8DT7hWFA==",
   "success": true,
   "projectFilePath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Application\\Api.Application.csproj",
   "expectedPackageFiles": [

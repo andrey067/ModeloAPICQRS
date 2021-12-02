@@ -3,6 +3,7 @@ using Api.Domain.Context;
 using Api.Domain.Entities.ValueObject;
 using Api.Domain.Validators;
 using Api.Shared.Exceptions;
+using MongoDB.Bson;
 
 namespace Api.Domain.Entities
 {
@@ -17,7 +18,7 @@ namespace Api.Domain.Entities
         public bool Verified { get; private set; }
         protected User() { }
 
-        public User(string id, Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
+        public User(ObjectId id, Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
         {
             setNome(name);
             setOccupation(occupation);

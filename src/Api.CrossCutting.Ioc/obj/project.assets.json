@@ -300,6 +300,19 @@
           "bin/placeholder/Api.Domain.dll": {}
         }
       },
+      "Api.Domain.Mongo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Api.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Api.Domain.Mongo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Domain.Mongo.dll": {}
+        }
+      },
       "Api.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -898,6 +911,11 @@
       "path": "../Api.Domain/Api.Domain.csproj",
       "msbuildProject": "../Api.Domain/Api.Domain.csproj"
     },
+    "Api.Domain.Mongo/1.0.0": {
+      "type": "project",
+      "path": "../Api.Domain.Mongo/Api.Domain.Mongo.csproj",
+      "msbuildProject": "../Api.Domain.Mongo/Api.Domain.Mongo.csproj"
+    },
     "Api.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../Api.Infrastructure/Api.Infrastructure.csproj",
@@ -921,6 +939,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Api.Domain.Mongo >= 1.0.0",
       "Api.Infrastructure >= 1.0.0",
       "Api.Repositories >= 1.0.0",
       "Api.Services >= 1.0.0",
@@ -961,6 +980,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\Api.Domain.Mongo.csproj": {
+              "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\Api.Domain.Mongo.csproj"
+            },
             "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
               "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
             },

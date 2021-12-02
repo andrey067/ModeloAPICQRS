@@ -31,23 +31,6 @@ H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
 H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.AssemblyReference.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CopyComplete
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
@@ -65,3 +48,20 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.D
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.AssemblyReference.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CopyComplete
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
