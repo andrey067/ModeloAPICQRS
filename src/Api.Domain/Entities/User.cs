@@ -1,9 +1,8 @@
-using System;
 using Api.Domain.Context;
 using Api.Domain.Entities.ValueObject;
 using Api.Domain.Validators;
 using Api.Shared.Exceptions;
-using MongoDB.Bson;
+using System;
 
 namespace Api.Domain.Entities
 {
@@ -18,13 +17,16 @@ namespace Api.Domain.Entities
         public bool Verified { get; private set; }
         protected User() { }
 
-        public User(ObjectId id, Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
+        public User(string id, Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
         {
+            setId(id);
             setNome(name);
             setOccupation(occupation);
             setBirthDate(birthDate);
+            setDateRegister(dateRegister);
             setEmail(email);
             setVerified(verified);
+            
         }
 
         public User(Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
@@ -33,7 +35,7 @@ namespace Api.Domain.Entities
             setNome(name);
             setOccupation(occupation);
             setBirthDate(birthDate);
-            seDateRegister(dateRegister);
+            setDateRegister(dateRegister);
             setEmail(email);
             setVerified(verified);
         }
@@ -41,7 +43,7 @@ namespace Api.Domain.Entities
         public void setNome(Name name) => Name = name;
         public void setOccupation(string ocupation) => Occupation = ocupation;
         public void setBirthDate(DateTime birthDate) => BirthDate = birthDate;
-        public void seDateRegister(DateTime dateRegister) => DateRegister = dateRegister;
+        public void setDateRegister(DateTime dateRegister) => DateRegister = dateRegister;
         public void setEmail(Email email) => Email = email;
         public void setVerified(bool verified) => Verified = verified;
 

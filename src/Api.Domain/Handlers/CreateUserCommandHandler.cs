@@ -1,6 +1,7 @@
 using Api.CrossCutting.Dtos;
 using Api.Domain.Builders;
 using Api.Domain.Commands;
+using Api.Domain.Entities;
 using Api.Domain.Interfaces;
 using AutoMapper;
 using MediatR;
@@ -38,8 +39,8 @@ namespace Api.Domain.Handlers
             try
             {
                 _userRepository.Create(user);
-
-                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso"));
+                var response = _userRepository.Get(user.Id);
+                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso", response));
 
             }
             catch (Exception e)

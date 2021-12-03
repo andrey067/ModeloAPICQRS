@@ -100,3 +100,5 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.pdb

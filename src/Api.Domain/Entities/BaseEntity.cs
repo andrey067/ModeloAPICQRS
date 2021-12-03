@@ -8,15 +8,17 @@ namespace Api.Domain.Entities
 {   
     public abstract class BaseEntity
     {
-        public ObjectId SetId()
+        protected string SetId()
         {
             //var id = Guid.NewGuid().ToString().Replace("-", string.Empty).Substring(0, 10).ToUpper();
-            var id = ObjectId.GenerateNewId();
+            var id = ObjectId.GenerateNewId().ToString();
             return Id = id;
         }
+        public void setId(string id) => Id = id;
+
 
         [BsonId, BsonRepresentation(BsonType.ObjectId)]
-        public ObjectId Id { get; private set; }
+        public string Id { get; private set; }
 
         internal List<string> _errors;
         public IReadOnlyCollection<string> Errors => _errors;

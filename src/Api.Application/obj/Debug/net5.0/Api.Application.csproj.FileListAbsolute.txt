@@ -276,3 +276,5 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.A
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.genruntimeconfig.cache
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.pdb

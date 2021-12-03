@@ -1,4 +1,5 @@
-﻿using Api.Domain.Interfaces;
+﻿using Api.Domain.Entities;
+using Api.Domain.Interfaces;
 using Api.Infrastructure.Context;
 using MongoDB.Bson;
 using MongoDB.Driver;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Api.Repositories
 {
-    public class BaseRepository<T> : IBaseRepository<T> where T : class
+    public class BaseRepository<T> : IBaseRepository<T> where T : BaseEntity
     {
         private readonly IMongoDbClient _mongoDbClient;
         private readonly IMongoCollection<T> DbSet;
@@ -27,9 +28,7 @@ namespace Api.Repositories
 
         public virtual async Task<T> Get(string id)
         {
-            var _id = new ObjectId(id);
-            var filter = Builders<T>.Filter.Eq("_id", _id);
-            return await DbSet.Find(filter).SingleAsync();
+            return await DbSet.Find(T => T.Id == id).FirstOrDefaultAsync();
         }
 
         public async Task<List<T>> GetAll()

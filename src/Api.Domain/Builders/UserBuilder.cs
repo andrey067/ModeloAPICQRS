@@ -7,7 +7,7 @@ namespace Api.Domain.Builders
 {
     public class UserBuilder : IUserBuilder
     {
-        private ObjectId _id;
+        private string _id;
         private Name _name;
         private string _occupation;
         private DateTime _birthDate;
@@ -53,7 +53,7 @@ namespace Api.Domain.Builders
             return this;
         }
 
-        public IUserBuilder WithId(ObjectId id)
+        public IUserBuilder WithId(string id)
         {
             _id = id;
             return this;

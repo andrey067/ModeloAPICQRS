@@ -9,7 +9,7 @@ namespace Api.Domain.Builders
     {
         User Builder();
         User CreateUserBuilder();
-        IUserBuilder WithId(ObjectId id);
+        IUserBuilder WithId(string id);
         IUserBuilder WithName(Name name);
         IUserBuilder WithOccupation(string ocupation);        
         IUserBuilder WithBirthDate(DateTime birthDate);
