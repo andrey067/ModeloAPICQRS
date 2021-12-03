@@ -247,7 +247,8 @@
       "Api.Repositories/1.0.0": {
         "dependencies": {
           "Api.Domain": "1.0.0",
-          "Api.Infrastructure": "1.0.0"
+          "Api.Infrastructure": "1.0.0",
+          "MongoDB.Driver": "2.13.2"
         },
         "runtime": {
           "Api.Repositories.dll": {}

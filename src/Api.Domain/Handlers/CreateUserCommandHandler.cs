@@ -38,9 +38,8 @@ namespace Api.Domain.Handlers
 
             try
             {
-                _userRepository.Create(user);
-                var response = _userRepository.Get(user.Id);
-                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso", response));
+                _userRepository.Create(user);                
+                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso",_mapper.Map<UserDto>(user)));
 
             }
             catch (Exception e)

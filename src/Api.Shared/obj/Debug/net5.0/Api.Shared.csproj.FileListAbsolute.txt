@@ -45,3 +45,4 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\ref\Api.Shared.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Shared\obj\Debug\net5.0\Api.Shared.csproj.AssemblyReference.cache

@@ -6,6 +6,7 @@ using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace Api.Repositories
@@ -36,9 +37,10 @@ namespace Api.Repositories
             return await DbSet.AsQueryable().ToListAsync();
         }
 
-        public Task Remove(long id)
+        public async Task Remove(string id)
         {
-            throw new NotImplementedException();
+            Expression<Func<T, bool> > filter = x => x.Id.Equals(ObjectId.Parse(id));
+            DeleteResult deleteResult = await DbSet.DeleteOneAsync(filter);            
         }
 
         public Task<T> Update(T obj)

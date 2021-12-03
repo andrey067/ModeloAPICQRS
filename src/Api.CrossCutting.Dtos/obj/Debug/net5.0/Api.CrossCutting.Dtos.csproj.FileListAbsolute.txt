@@ -44,3 +44,4 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\ref\Api.CrossCutting.Dtos.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.csproj.AssemblyReference.cache

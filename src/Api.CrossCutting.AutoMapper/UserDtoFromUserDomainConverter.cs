@@ -8,14 +8,14 @@ namespace Api.CrossCutting.AutoMapper
     {
         public UserDto Convert(User source, UserDto destination, ResolutionContext context)
         => new UserDto
-        {
-            Id = source.Id.ToString(),
+        {            
             FirstName = source.Name.FirstName,
             LastName = source.Name.LastName,
             Occupation = source.Occupation,
             BirthDate = source.BirthDate,
             DateRegister = source.DateRegister,
-            EmailAddress = source.Email.Address
+            EmailAddress = source.Email.Address,
+            Verified =source.Verified
         };
     }
 }
