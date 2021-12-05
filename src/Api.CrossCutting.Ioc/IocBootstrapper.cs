@@ -23,6 +23,8 @@ namespace Api.CrossCutting.Ioc
             services.AddScoped<IUserRepository, UserRepository>();
 
             services.AddScoped<IRequestHandler<CreateUserCommand, CommandReturnDto>, CreateUserCommandHandler>();
+            services.AddScoped<IRequestHandler<UpdateUserCommand, CommandReturnDto>, UpdateUserCommandHandler>();
+            services.AddScoped<IRequestHandler<RemoveUserCommand, CommandReturnDto>, RemoveUserCommandHandler>();
 
         }
     }

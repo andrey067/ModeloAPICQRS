@@ -11,6 +11,7 @@ namespace Api.CrossCutting.AutoMapper
         {
             CreateMap<User, UserDto>().ConvertUsing<UserDtoFromUserDomainConverter>();
             CreateMap<UserDto, CreateUserCommand>().ConvertUsing<CreateUserCommandFromUserDtoConverter>();
+            CreateMap<UserDto, UpdateUserCommand>().ConvertUsing<UpdateUserCommandFromUserDtoConverter>();
         }
     }
 }

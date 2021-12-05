@@ -37,5 +37,21 @@ namespace Api.Application.Controller
             var response = await _userServices.GetAll();
             return Ok(response);
         }
+
+        [Route("/api/v1/user/removeuser")]
+        [HttpDelete]
+        public async Task<IActionResult> RemoveUser(string id)
+        {
+            var response = await _userServices.Remove(id);
+            return Ok(response);
+        }
+
+        [Route("/api/v1/user/updateuser")]
+        [HttpPut]
+        public async Task<IActionResult> UpdateUser(UserDto user)
+        {
+            var response = await _userServices.Update(user);
+            return Ok(response);
+        }
     }
 }

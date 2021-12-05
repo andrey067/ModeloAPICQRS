@@ -22,7 +22,7 @@ namespace Api.Repositories
             DbSet = _mongoDbClient.GetCollection<T>(typeof(T).Name);
         }
 
-        public virtual async void Create(T obj)
+        public virtual async Task Create(T obj)
         {
             await DbSet.InsertOneAsync(obj);
         }
@@ -39,13 +39,16 @@ namespace Api.Repositories
 
         public async Task Remove(string id)
         {
-            Expression<Func<T, bool> > filter = x => x.Id.Equals(ObjectId.Parse(id));
-            DeleteResult deleteResult = await DbSet.DeleteOneAsync(filter);            
+            Expression<Func<T, bool>> filter = x => x.Id.Equals(ObjectId.Parse(id));
+            DeleteResult deleteResult = await DbSet.DeleteOneAsync(filter);
         }
 
-        public Task<T> Update(T obj)
+        public async Task Update(T obj)
         {
-            throw new NotImplementedException();
+            Expression<Func<T, bool>> filter = x => x.Id.Equals(ObjectId.Parse(obj.Id));
+            var result = await DbSet.Find(filter).FirstOrDefaultAsync();
+            if (result != null)
+                await DbSet.FindOneAndReplaceAsync(filter, obj);           
         }
     }
 }

@@ -33,19 +33,11 @@ namespace Api.Services
             return new CommandReturnDto(false, "Erros foram encontrados", result);
         }
 
-        public async Task<List<User>> GetAll()
-        {
-            return await _userRepository.GetAll();
-        }
+        public async Task<List<User>> GetAll() => await _userRepository.GetAll();
 
-        public Task Remove(long id)
-        {
-            throw new NotImplementedException();
-        }
 
-        public Task<CommandReturnDto> Update(UserDto produtoDTO)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<CommandReturnDto> Remove(string id) => await _mediator.Send(new RemoveUserCommand(id));
+
+        public async Task<CommandReturnDto> Update(UserDto userdto) => await _mediator.Send(_mapper.Map<UpdateUserCommand>(userdto));
     }
 }
