@@ -16,9 +16,9 @@ namespace Api.Application.Controller
         }
         [Route("/api/v1/user/create")]
         [HttpPost]
-        public async Task<IActionResult> Create(UserDto user)
+        public Task<IActionResult> Create(UserDto user)
         {
-            var response = await _userServices.Create(user);
+            _userServices.Create(user);
             return Ok(response);
         }
 

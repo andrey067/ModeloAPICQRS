@@ -1,7 +1,6 @@
 using Api.CrossCutting.Dtos;
 using Api.Domain.Builders;
 using Api.Domain.Commands;
-using Api.Domain.Entities;
 using Api.Domain.Interfaces;
 using AutoMapper;
 using MediatR;
@@ -22,7 +21,7 @@ namespace Api.Domain.Handlers
             _mapper = mapper;
         }
 
-        public Task<CommandReturnDto> Handle(CreateUserCommand request, CancellationToken cancellationToken)
+        public async Task<CommandReturnDto> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
             var user = new UserBuilder()
                 .WithName(request.Name)
@@ -34,18 +33,18 @@ namespace Api.Domain.Handlers
                 .CreateUserBuilder();
 
             if (!user.Validate())
-                return Task.FromResult(new CommandReturnDto(false, "Erros foram encontrados", user));
+                return await Task.FromResult(new CommandReturnDto(false, "Erros foram encontrados", user));
 
             try
             {
-                _userRepository.Create(user);                
-                return Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso",_mapper.Map<UserDto>(user)));
+                await _userRepository.Create(user);
+                return await Task.FromResult(new CommandReturnDto(true, "Cadastrado com sucesso", _mapper.Map<UserDto>(user)));
 
             }
             catch (Exception e)
             {
                 var retornoComErro = new CommandReturnDto(false, "Erro no cadastro", e.Message);
-                return Task.FromResult(retornoComErro);
+                return await Task.FromResult(retornoComErro);
             }
         }
     }

@@ -1,22 +1,3 @@
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\ref\Api.Domain.Mongo.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.AssemblyInfoInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.AssemblyInfo.cs
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.csproj.CopyComplete
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\ref\Api.Domain.Mongo.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.csproj.AssemblyReference.cache
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.deps.json
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\ref\Api.Domain.Mongo.dll
@@ -36,3 +17,22 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain.Mongo\obj\Debug\net5.0
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\ref\Api.Domain.Mongo.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.deps.json
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\ref\Api.Domain.Mongo.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.Mongo.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Shared.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Domain.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\bin\Debug\net5.0\Api.Shared.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.csproj.AssemblyReference.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.AssemblyInfoInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.AssemblyInfo.cs
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.csproj.CoreCompileInputs.cache
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.csproj.CopyComplete
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\ref\Api.Domain.Mongo.dll
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain.Mongo\obj\Debug\net5.0\Api.Domain.Mongo.pdb

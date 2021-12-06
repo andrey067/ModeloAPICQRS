@@ -203,78 +203,11 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\appsettings.Development.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\appsettings.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Application.exe
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Application.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Application.runtimeconfig.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Application.runtimeconfig.dev.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Application.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\ref\Api.Application.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Application.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\AutoMapper.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\DnsClient.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\FluentValidation.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\MediatR.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\MongoDB.Bson.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\MongoDB.Driver.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\MongoDB.Driver.Core.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\SharpCompress.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.CrossCutting.AutoMapper.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.CrossCutting.Ioc.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Infrastructure.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Repositories.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Services.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.CrossCutting.AutoMapper.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Services.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Infrastructure.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Repositories.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Shared.pdb
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.dll
+H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.pdb
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.csproj.AssemblyReference.cache
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.AssemblyInfoInputs.cache
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.AssemblyInfo.cs
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.MvcApplicationPartsAssemblyInfo.cs
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.MvcApplicationPartsAssemblyInfo.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\staticwebassets\Api.Application.StaticWebAssets.Manifest.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\staticwebassets\Api.Application.StaticWebAssets.xml
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\scopedcss\bundle\Api.Application.styles.css
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.RazorTargetAssemblyInfo.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.csproj.CopyComplete
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\ref\Api.Application.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\obj\Debug\net5.0\Api.Application.genruntimeconfig.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Application\bin\Debug\net5.0\Api.Domain.Mongo.pdb

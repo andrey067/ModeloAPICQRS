@@ -7,9 +7,9 @@ namespace Api.Services
 {
     public interface IUserService
     {
-        Task<CommandReturnDto> Create(UserDto userDto);
-        Task<CommandReturnDto> Update(UserDto userDto);
-        Task<CommandReturnDto> Remove(string id);
+        void Create(UserDto userDto);
+        void Update(UserDto userDto);
+        void Remove(string id);
         Task<CommandReturnDto> Get(string id);
         Task<List<User>> GetAll();
     }

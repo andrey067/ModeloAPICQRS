@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWc4gYb30rzMqd2gExu9bUETBDcA0nhsYmfggfQ/34wbe9HZ40YBC9XnMm67Qrxz85JxOGKNHl1K4XM0dt4s1Q==",
+  "dgSpecHash": "0YZPfCaPceCdbYdyQvxAWzyrEGSP8lu0h06Tu39qD9QuQh1daNtFaLCoKlF+PPG+Uy8wUnlOLcqnCGe3C4wW0g==",
   "success": true,
-  "projectFilePath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
+  "projectFilePath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

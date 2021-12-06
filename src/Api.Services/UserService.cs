@@ -1,12 +1,11 @@
-﻿using Api.CrossCutting.Dtos;
-using Api.Domain.Commands;
+﻿using AutoMapper;
 using Api.Domain.Entities;
+using Api.Domain.Commands;
+using MassTransit.Mediator;
+using Api.CrossCutting.Dtos;
 using Api.Domain.Interfaces;
-using AutoMapper;
-using MediatR;
-using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace Api.Services
 {
@@ -23,7 +22,8 @@ namespace Api.Services
             _userRepository = userRepository;
         }
 
-        public async Task<CommandReturnDto> Create(UserDto userdto) => await _mediator.Send(_mapper.Map<CreateUserCommand>(userdto));
+        public void Create(UserDto userdto) => _mediator.Send(_mapper.Map<CreateUserCommand>(userdto));
+
 
         public async Task<CommandReturnDto> Get(string id)
         {
@@ -36,8 +36,8 @@ namespace Api.Services
         public async Task<List<User>> GetAll() => await _userRepository.GetAll();
 
 
-        public async Task<CommandReturnDto> Remove(string id) => await _mediator.Send(new RemoveUserCommand(id));
+        public void Remove(string id) => _mediator.Send(new RemoveUserCommand(id));
 
-        public async Task<CommandReturnDto> Update(UserDto userdto) => await _mediator.Send(_mapper.Map<UpdateUserCommand>(userdto));
+        public void Update(UserDto userdto) => _mediator.Send(_mapper.Map<UpdateUserCommand>(userdto));
     }
 }

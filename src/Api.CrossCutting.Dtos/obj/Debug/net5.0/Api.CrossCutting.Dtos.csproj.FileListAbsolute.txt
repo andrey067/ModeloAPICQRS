@@ -37,6 +37,7 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\bin\Debug\net5.0
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\bin\Debug\net5.0\ref\Api.CrossCutting.Dtos.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
+D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.csproj.AssemblyReference.cache
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.GeneratedMSBuildEditorConfig.editorconfig
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.AssemblyInfoInputs.cache
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.AssemblyInfo.cs
@@ -44,4 +45,3 @@ D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\ref\Api.CrossCutting.Dtos.dll
 D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Dtos\obj\Debug\net5.0\Api.CrossCutting.Dtos.csproj.AssemblyReference.cache
