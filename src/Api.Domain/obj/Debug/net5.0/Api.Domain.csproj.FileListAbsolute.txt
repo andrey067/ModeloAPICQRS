@@ -1,67 +1,84 @@
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\Api.Shared.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\bin\Debug\net5.0\Api.Shared.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.AssemblyReference.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CopyComplete
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\Api.Shared.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\bin\Debug\net5.0\Api.Shared.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CopyComplete
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.AssemblyReference.cache
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CopyComplete
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\bin\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.AssemblyReference.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CopyComplete
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/Api.Domain.deps.json
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/ref/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/Api.Domain.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/Api.Shared.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/bin/Debug/net5.0/Api.Shared.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.AssemblyReference.cache
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfoInputs.cache
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfo.cs
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CoreCompileInputs.cache
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CopyComplete
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/ref/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/Api.Domain/obj/Debug/net5.0/Api.Domain.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/Api.Domain.deps.json
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/ref/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/Api.Domain.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/Api.Shared.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/bin/Debug/net5.0/Api.Shared.pdb
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfoInputs.cache
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfo.cs
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CoreCompileInputs.cache
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CopyComplete
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/ref/Api.Domain.dll
+H:/Meu Drive/Cesta2IrmaoApi/TesteApi/src/Api.Domain/obj/Debug/net5.0/Api.Domain.pdb
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.deps.json
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.dll
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/ref/Api.Domain.dll
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.pdb
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.dll
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/Api.Shared.dll
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.pdb
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/bin/Debug/net5.0/Api.Shared.pdb
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.AssemblyReference.cache
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfoInputs.cache
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfo.cs
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CoreCompileInputs.cache
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CopyComplete
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.dll
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/ref/Api.Domain.dll
+D:/Estudo/ApiModeloCQRS/ModeloAPICQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.pdb
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.deps.json
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.dll
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/ref/Api.Domain.dll
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.pdb
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.dll
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Shared.dll
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.pdb
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Shared.pdb
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.AssemblyReference.cache
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfoInputs.cache
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfo.cs
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CoreCompileInputs.cache
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CopyComplete
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.dll
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/ref/Api.Domain.dll
+H:/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.pdb
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.deps.json
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.dll
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/ref/Api.Domain.dll
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Domain.pdb
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.dll
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Shared.dll
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.CrossCutting.Dtos.pdb
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/bin/Debug/net5.0/Api.Shared.pdb
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.AssemblyInfo.cs
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.csproj.CopyComplete
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.dll
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/ref/Api.Domain.dll
+/Volumes/GoogleDrive/Meu Drive/ModeloAPI_CQRS/ModeloAPI_CQRS/src/Api.Domain/obj/Debug/net5.0/Api.Domain.pdb

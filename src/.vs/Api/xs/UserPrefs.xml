@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D5452900-554B-4CC3-937B-191A435CFEFA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Api.Application PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Api.Application/Controller/UserController.cs">
+    <Files>
+      <File FileName="Api.Application/ViewModels/CreateViewModel.cs" Line="9" Column="48" />
+      <File FileName="Api.CrossCutting.Dtos/UserDto.cs" Line="7" Column="9" />
+      <File FileName="Api.Application/Controller/UserController.cs" Line="13" Column="1" />
+      <File FileName="Api.Application/ViewModels/ResultViewModel.cs" Line="10" Column="42" />
+      <File FileName="Api.Application/ViewModels/UpdateViewModel.cs" Line="15" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Api" expanded="True">
+            <Node name="Api.Application" expanded="True">
+              <Node name="Controller" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="Api.CrossCutting.Dtos" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

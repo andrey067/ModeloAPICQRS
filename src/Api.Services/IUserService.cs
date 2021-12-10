@@ -1,5 +1,4 @@
 ﻿using Api.CrossCutting.Dtos;
-using Api.Domain.Entities;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -7,10 +6,13 @@ namespace Api.Services
 {
     public interface IUserService
     {
-        Task<CommandReturnDto> Create(UserDto userDto);
-        Task<CommandReturnDto> Update(UserDto userDto);
-        Task<CommandReturnDto> Remove(string id);
-        Task<CommandReturnDto> Get(string id);
-        Task<List<User>> GetAll();
+        Task<UserDto> Create(UserDto userDTO);
+        Task<UserDto> Update(UserDto userDTO);
+        Task Remove(long id);
+        Task<UserDto> Get(long id);
+        Task<List<UserDto>> Get();
+        Task<List<UserDto>> SearchByName(string name);
+        Task<List<UserDto>> SearchByEmail(string email);
+        Task<UserDto> GetByEmail(string email);
     }
 }

@@ -22,33 +22,29 @@ namespace Api.Repositories
             DbSet = _mongoDbClient.GetCollection<T>(typeof(T).Name);
         }
 
-        public virtual async Task Create(T obj)
+        public virtual async Task<T> Create(T obj)
         {
             await DbSet.InsertOneAsync(obj);
+            return obj;
         }
 
-        public virtual async Task<T> Get(string id)
-        {
-            return await DbSet.Find(T => T.Id == id).FirstOrDefaultAsync();
-        }
+        public virtual async Task<T> Get(string id) => await DbSet.Find(T => T.Id == id).FirstOrDefaultAsync();
 
-        public async Task<List<T>> GetAll()
-        {
-            return await DbSet.AsQueryable().ToListAsync();
-        }
+        public async Task<List<T>> Get() => await DbSet.AsQueryable().ToListAsync();
 
-        public async Task Remove(string id)
+        public virtual async Task Remove(string id)
         {
             Expression<Func<T, bool>> filter = x => x.Id.Equals(ObjectId.Parse(id));
-            DeleteResult deleteResult = await DbSet.DeleteOneAsync(filter);
+            var result = await DbSet.Find(filter).FirstOrDefaultAsync();
+            if (result != null)
+                await DbSet.DeleteOneAsync(filter);
         }
 
-        public async Task Update(T obj)
+        public virtual async Task<T> Update(T obj)
         {
             Expression<Func<T, bool>> filter = x => x.Id.Equals(ObjectId.Parse(obj.Id));
             var result = await DbSet.Find(filter).FirstOrDefaultAsync();
-            if (result != null)
-                await DbSet.FindOneAndReplaceAsync(filter, obj);           
+            return await DbSet.FindOneAndReplaceAsync(filter, obj);
         }
     }
 }

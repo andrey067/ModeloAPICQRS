@@ -672,6 +672,10 @@
               "target": "Package",
               "version": "[10.1.1, )"
             },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[7.2.4, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[9.0.0, )"
