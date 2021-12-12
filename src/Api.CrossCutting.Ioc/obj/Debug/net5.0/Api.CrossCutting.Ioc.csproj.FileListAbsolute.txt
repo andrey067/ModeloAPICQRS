@@ -1,104 +1,21 @@
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.deps.json
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.AssemblyReference.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfoInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfo.cs
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CopyComplete
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.deps.json
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.pdb
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.AssemblyReference.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfoInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfo.cs
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CopyComplete
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\Cesta2IrmaoApi\TesteApi\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.deps.json
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.AssemblyReference.cache
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfoInputs.cache
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfo.cs
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CopyComplete
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.dll
-H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.AssemblyReference.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfoInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfo.cs
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.deps.json
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.Mongo.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Repositories.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Dtos.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Shared.pdb
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CopyComplete
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
-D:\Estudo\ApiModeloCQRS\ModeloAPICQRS\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.deps.json
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.CrossCutting.Ioc.pdb
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Core.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Infrastructure.pdb
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Services.pdb
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Core.pdb
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\bin\Debug\net5.0\Api.Domain.pdb
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.AssemblyReference.cache
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfoInputs.cache
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.AssemblyInfo.cs
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.csproj.CopyComplete
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\ref\Api.CrossCutting.Ioc.dll
+H:\Meu Drive\ModeloApi_MongoDb\src\Api.CrossCutting.Ioc\obj\Debug\net5.0\Api.CrossCutting.Ioc.pdb

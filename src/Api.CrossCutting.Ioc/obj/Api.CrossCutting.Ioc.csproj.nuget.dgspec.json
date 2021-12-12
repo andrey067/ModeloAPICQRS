@@ -1,33 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj": {}
+    "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj": {}
   },
   "projects": {
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
+    "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Core\\Api.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
-        "projectName": "Api.CrossCutting.Dtos",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\obj\\",
+        "projectUniqueName": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Core\\Api.Core.csproj",
+        "projectName": "Api.Core",
+        "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Core\\Api.Core.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -63,46 +64,41 @@
         }
       }
     },
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj": {
+    "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
         "projectName": "Api.CrossCutting.Ioc",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Ioc\\obj\\",
+        "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\Api.Domain.Mongo.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\Api.Domain.Mongo.csproj"
+              "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
+                "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
               },
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
-              },
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj"
-              },
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Services\\Api.Services.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Services\\Api.Services.csproj"
+              "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj": {
+                "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj"
               }
             }
           }
@@ -145,103 +141,38 @@
         }
       }
     },
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\Api.Domain.Mongo.csproj": {
+    "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\Api.Domain.Mongo.csproj",
-        "projectName": "Api.Domain.Mongo",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\Api.Domain.Mongo.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain.Mongo\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj",
         "projectName": "Api.Domain",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\obj\\",
+        "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj"
-              },
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj"
+              "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Core\\Api.Core.csproj": {
+                "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Core\\Api.Core.csproj"
               }
             }
           }
@@ -256,13 +187,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[10.1.1, )"
-            },
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.3.4, )"
+              "version": "[10.3.5, )"
             },
             "MediatR": {
               "target": "Package",
@@ -270,7 +197,7 @@
             },
             "MongoDB.Bson": {
               "target": "Package",
-              "version": "[2.13.2, )"
+              "version": "[2.14.1, )"
             }
           },
           "imports": [
@@ -292,37 +219,38 @@
         }
       }
     },
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
+    "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
         "projectName": "Api.Infrastructure",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\obj\\",
+        "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj"
+              "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj"
               }
             }
           }
@@ -341,13 +269,9 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
-            "Microsoft.Extensions.Options": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.13.2, )"
+              "version": "[2.14.1, )"
             }
           },
           "imports": [
@@ -369,112 +293,41 @@
         }
       }
     },
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj": {
+    "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj",
-        "projectName": "Api.Repositories",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\Api.Repositories.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Repositories\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj"
-              },
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.13.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Services\\Api.Services.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Services\\Api.Services.csproj",
+        "projectUniqueName": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj",
         "projectName": "Api.Services",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Services\\Api.Services.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Services\\obj\\",
+        "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.CrossCutting.Dtos\\Api.CrossCutting.Dtos.csproj"
+              "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj"
               },
-              "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj": {
-                "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj"
+              "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
+                "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
               }
             }
           }
@@ -493,74 +346,11 @@
               "target": "Package",
               "version": "[10.1.1, )"
             },
-            "MassTransit": {
-              "target": "Package",
-              "version": "[7.2.4, )"
-            },
             "MediatR": {
               "target": "Package",
               "version": "[9.0.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj",
-        "projectName": "Api.Shared",
-        "projectPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj",
-        "packagesPath": "C:\\Users\\3970\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\3970\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ucdb-dev.pkgs.visualstudio.com/_packaging/UCDB/nuget/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

@@ -8,34 +8,20 @@
     ".NETCoreApp,Version=v5.0": {
       "Api.Domain/1.0.0": {
         "dependencies": {
-          "Api.CrossCutting.Dtos": "1.0.0",
-          "Api.Shared": "1.0.0",
-          "AutoMapper": "10.1.1",
-          "FluentValidation": "10.3.4",
+          "Api.Core": "1.0.0",
+          "FluentValidation": "10.3.5",
           "MediatR": "9.0.0",
-          "MongoDB.Bson": "2.13.2"
+          "MongoDB.Bson": "2.14.1"
         },
         "runtime": {
           "Api.Domain.dll": {}
         }
       },
-      "AutoMapper/10.1.1": {
-        "dependencies": {
-          "Microsoft.CSharp": "4.7.0",
-          "System.Reflection.Emit": "4.7.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/AutoMapper.dll": {
-            "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.1.1.0"
-          }
-        }
-      },
-      "FluentValidation/10.3.4": {
+      "FluentValidation/10.3.5": {
         "runtime": {
           "lib/net5.0/FluentValidation.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "10.3.4.0"
+            "fileVersion": "10.3.5.0"
           }
         }
       },
@@ -47,28 +33,21 @@
           }
         }
       },
-      "Microsoft.CSharp/4.7.0": {},
-      "MongoDB.Bson/2.13.2": {
+      "MongoDB.Bson/2.14.1": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.1/MongoDB.Bson.dll": {
-            "assemblyVersion": "2.13.2.0",
-            "fileVersion": "2.13.2.0"
+            "assemblyVersion": "2.14.1.0",
+            "fileVersion": "2.14.1.0"
           }
         }
       },
-      "System.Reflection.Emit/4.7.0": {},
       "System.Runtime.CompilerServices.Unsafe/5.0.0": {},
-      "Api.CrossCutting.Dtos/1.0.0": {
+      "Api.Core/1.0.0": {
         "runtime": {
-          "Api.CrossCutting.Dtos.dll": {}
-        }
-      },
-      "Api.Shared/1.0.0": {
-        "runtime": {
-          "Api.Shared.dll": {}
+          "Api.Core.dll": {}
         }
       }
     }
@@ -79,19 +58,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "AutoMapper/10.1.1": {
+    "FluentValidation/10.3.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-uMgbqOdu9ZG5cIOty0C85hzzayBH2i9BthnS5FlMqKtMSHDv4ts81a2jS1VFaDBVhlBeIqJ/kQKjQY95BZde9w==",
-      "path": "automapper/10.1.1",
-      "hashPath": "automapper.10.1.1.nupkg.sha512"
-    },
-    "FluentValidation/10.3.4": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-hsGRtnhTlCrRbxIOkKp6rCBtkq3UV0i31ckcJtd5j1i99zqLgbQGcbxK0SMU63DIto94f++uIdRpoycu8ySnDQ==",
-      "path": "fluentvalidation/10.3.4",
-      "hashPath": "fluentvalidation.10.3.4.nupkg.sha512"
+      "sha512": "sha512-Mt2CnRqNA5+vXVNFY05yLuOG3OLYR7Q/ZcP/rcJZPNPbg95foVUruyQEmKl1GeXVnT2+u6rjGU2ZCdgF//QU2A==",
+      "path": "fluentvalidation/10.3.5",
+      "hashPath": "fluentvalidation.10.3.5.nupkg.sha512"
     },
     "MediatR/9.0.0": {
       "type": "package",
@@ -100,26 +72,12 @@
       "path": "mediatr/9.0.0",
       "hashPath": "mediatr.9.0.0.nupkg.sha512"
     },
-    "Microsoft.CSharp/4.7.0": {
+    "MongoDB.Bson/2.14.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
-      "path": "microsoft.csharp/4.7.0",
-      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
-    },
-    "MongoDB.Bson/2.13.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-qY9271GFCYLA8OB3MdQC8clJh9wnh65gcxUa5Skwh2xYryv21YAHx/VOvv4ILpkb1NhIVgy3LBQhVBldwLaqNg==",
-      "path": "mongodb.bson/2.13.2",
-      "hashPath": "mongodb.bson.2.13.2.nupkg.sha512"
-    },
-    "System.Reflection.Emit/4.7.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
-      "path": "system.reflection.emit/4.7.0",
-      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+      "sha512": "sha512-+5LZSrOiQgubSyIfwdofiAiX1KM5m0mpZ55/o9yzJyZr9TviMbVbaxWjaHaQP4pv46fKA2LWSuuQD4SEj2tg0Q==",
+      "path": "mongodb.bson/2.14.1",
+      "hashPath": "mongodb.bson.2.14.1.nupkg.sha512"
     },
     "System.Runtime.CompilerServices.Unsafe/5.0.0": {
       "type": "package",
@@ -128,12 +86,7 @@
       "path": "system.runtime.compilerservices.unsafe/5.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
     },
-    "Api.CrossCutting.Dtos/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Api.Shared/1.0.0": {
+    "Api.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

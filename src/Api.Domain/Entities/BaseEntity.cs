@@ -13,7 +13,6 @@ namespace Api.Domain.Entities
         }
         public void setId(string id) => Id = id;
 
-
         [BsonId, BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; private set; }
 

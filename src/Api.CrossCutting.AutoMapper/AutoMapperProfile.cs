@@ -1,6 +1,7 @@
-﻿using Api.CrossCutting.Dtos;
-using Api.Domain.Commands;
+﻿using Api.Application.ViewModels;
 using Api.Domain.Entities;
+using Api.Services.Commands;
+using Api.Services.Dtos;
 using AutoMapper;
 
 namespace Api.CrossCutting.AutoMapper
@@ -9,9 +10,10 @@ namespace Api.CrossCutting.AutoMapper
     {
         public AutoMapperProfile()
         {
-            CreateMap<User, UserDto>().ConvertUsing<UserDtoFromUserDomainConverter>();
-            CreateMap<UserDto, CreateUserCommand>().ConvertUsing<CreateUserCommandFromUserDtoConverter>();
-            CreateMap<UserDto, UpdateUserCommand>().ConvertUsing<UpdateUserCommandFromUserDtoConverter>();
+            CreateMap<User, UserDto>().ReverseMap();
+            CreateMap<CreateUserViewModel, CreateUserCommand>().ReverseMap();
+
+            //CreateMap<User, UserDto>().ConvertUsing<UserDtoFromUserDomainConverter>();
         }
     }
 }

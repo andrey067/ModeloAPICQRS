@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7CVKxTE9gadcmqVrQUwzW8ouKlMn8PQxI9L/CjGIN7tuAJagr9jcxaB9EIDx1/ZiJe8QjEGh7ZEvzJipdkYA/g==",
+  "dgSpecHash": "Ls7J1DDMXGCjkjnHs8kXsajaCuTgl7Gd8IOF2RvyR4q+pA+dOPzLXjjx48Sm0u42yPS+c6+GnNY2Unt49oix8Q==",
   "success": true,
-  "projectFilePath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Shared\\Api.Shared.csproj",
+  "projectFilePath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Shared\\Api.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,11 @@
-﻿using Api.CrossCutting.Dtos;
-using Api.Services;
+﻿using Api.Application.ViewModels;
+using Api.Core.Exceptions;
+using Api.Core.Utilities;
+using Api.Services.Commands;
+using AutoMapper;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Threading.Tasks;
 
 namespace Api.Application.Controller
@@ -8,50 +13,40 @@ namespace Api.Application.Controller
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly IUserService _userServices;
+        private readonly IMapper _mapper;
+        private readonly IMediator _mediator;
 
-        public UserController(IUserService clienteServices)
+        public UserController(IMapper mapper, IMediator userService)
         {
-            _userServices = clienteServices;
+            _mapper = mapper;
+            _mediator = userService;
         }
-        [Route("/api/v1/user/create")]
+
         [HttpPost]
-        public Task<IActionResult> Create(UserDto user)
+        [Route("/api/v1/users/create")]
+        public async Task<IActionResult> Create([FromBody] CreateUserViewModel userViewModel)
         {
-            _userServices.Create(user);
-            return Ok(response);
-        }
+            try
+            {
+                var createUserCommand = _mapper.Map<CreateUserCommand>(userViewModel);
 
-        [Route("/api/v1/user/get")]
-        [HttpGet]
-        public async Task<IActionResult> GetById(string guid)
-        {
-            var response = await _userServices.Get(guid);
-            return Ok(response);
-        }
+                var userCreated = await _mediator.Send(createUserCommand);
 
-        [Route("/api/v1/user/getAll")]
-        [HttpGet]
-        public async Task<IActionResult> GetAll()
-        {
-            var response = await _userServices.GetAll();
-            return Ok(response);
-        }
-
-        [Route("/api/v1/user/removeuser")]
-        [HttpDelete]
-        public async Task<IActionResult> RemoveUser(string id)
-        {
-            var response = await _userServices.Remove(id);
-            return Ok(response);
-        }
-
-        [Route("/api/v1/user/updateuser")]
-        [HttpPut]
-        public async Task<IActionResult> UpdateUser(UserDto user)
-        {
-            var response = await _userServices.Update(user);
-            return Ok(response);
+                return Ok(new ResultViewModel
+                {
+                    Message = "Usuário criado com sucesso!",
+                    Success = true,
+                    Data = userCreated
+                });
+            }
+            catch (DomainException ex)
+            {
+                return BadRequest(Responses.DomainErrorMessage(ex.Message, ex.Errors));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, Responses.ApplicationErrorMessage(ex.Message));
+            }
         }
     }
 }

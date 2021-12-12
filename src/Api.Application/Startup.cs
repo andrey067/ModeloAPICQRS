@@ -1,4 +1,4 @@
-using Api.CrossCutting.AutoMapper;
+using Api.Application.AutoMapperConfig;
 using Api.CrossCutting.Ioc;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -8,7 +8,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using System;
-using System.Text.Json.Serialization;
 
 namespace Api.Application
 {
@@ -24,34 +23,31 @@ namespace Api.Application
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers().AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
             services.AddControllers();
             services.AddHealthChecks();
             services.AddMediatR(typeof(Startup));
             services.RegisterMappers();
-
             IocBootstrapper.RegisterServices(services, Configuration);
-
 
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "Api Cesta 2 Irmãos",
+                    Title = "Api Usando CQRS",
                     Description = "Api desenvolvida, aplicando conhecimento apreendido.",
-                    TermsOfService = new Uri("https://romulo-moreschi.com"),
+                    TermsOfService = new Uri(""),
                     Contact = new OpenApiContact
                     {
-                        Name = "Romulo Moreschi Filho",
-                        Email = "romulo_moreschi@hotmail.com",
-                        Url = new Uri("https://romulo-moreschi.com")
+                        Name = "Audrey Ernesto de Lima",
+                        Email = "audrey.ernesto.lima@gmail.com",
+                        Url = new Uri("")
                     },
                     License = new OpenApiLicense
                     {
                         Name = "Termo de Licença de Uso",
-                        Url = new Uri("https://romulo-moreschi.com")
+                        Url = new Uri("")
                     }
                 });
             });
@@ -68,9 +64,9 @@ namespace Api.Application
             }
 
             app.UseHttpsRedirection();
-
             app.UseRouting();
             app.UseHealthChecks("/check");
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

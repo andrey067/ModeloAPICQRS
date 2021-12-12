@@ -1,16 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Hx6xyA1RimXltFUdkAhO0F/FFEkSisOxdw62LZ64BXgyWfnhaunC0mbc3zgTnZUwN1G3hnbdMUp3s7Hh9esGnA==",
+  "dgSpecHash": "w4NN6axxHGWoS50QI0Nf0PszV6C9LZZhnTiPqBBR+PQjk+8nBrQXgl75sdEDLr5qPwtHzsTtEPh5tmhZwyfg6Q==",
   "success": true,
-  "projectFilePath": "D:\\Estudo\\ApiModeloCQRS\\ModeloAPICQRS\\src\\Api.Domain\\Api.Domain.csproj",
+  "projectFilePath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\3970\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\3970\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
-    "C:\\Users\\3970\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
-    "C:\\Users\\3970\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\3970\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
-    "C:\\Users\\3970\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\3970\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

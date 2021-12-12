@@ -2,7 +2,7 @@ namespace Api.Domain.Entities.ValueObject
 {
     public class Name
     {
-         public Name(string firstName, string lastName)
+        public Name(string firstName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;

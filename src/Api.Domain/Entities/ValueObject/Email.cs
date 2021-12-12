@@ -1,4 +1,4 @@
-namespace Api.Domain.Entities.ValueObject
+namespace Api.Domain.Entities.ValeuObjects
 {
     public class Email
     {

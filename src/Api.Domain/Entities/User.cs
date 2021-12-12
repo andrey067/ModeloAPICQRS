@@ -1,12 +1,11 @@
-using Api.Domain.Context;
+using Api.Core.Exceptions;
+using Api.Domain.Entities.ValeuObjects;
+using Api.Domain.Entities.Validators;
 using Api.Domain.Entities.ValueObject;
-using Api.Domain.Validators;
-using Api.Shared.Exceptions;
 using System;
 
 namespace Api.Domain.Entities
 {
-    [BsonCollection("User")]
     public class User : BaseEntity
     {
         public Name Name { get; private set; }
@@ -26,7 +25,7 @@ namespace Api.Domain.Entities
             setDateRegister(dateRegister);
             setEmail(email);
             setVerified(verified);
-            
+
         }
 
         public User(Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
@@ -60,7 +59,7 @@ namespace Api.Domain.Entities
                     foreach (var error in validation.Errors)
                         _errors.Add(error.ErrorMessage);
 
-                    throw new DomainException("Alguns campos est„o inv·lidos, por favor corrija-os!", _errors);
+                    throw new DomainException("Alguns campos est√£o inv√°lidos, por favor corrija-os!", _errors);
                 }
             }
             return true;

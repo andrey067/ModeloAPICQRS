@@ -1,11 +1,10 @@
-﻿using Api.CrossCutting.Dtos;
-using Api.Domain.Commands;
-using Api.Domain.Handlers;
-using Api.Domain.Interfaces;
-using Api.Domain.Mongo;
-using Api.Infrastructure.Context;
-using Api.Repositories;
-using Api.Services;
+﻿using Api.Infrastructure.Context;
+using Api.Infrastructure.Interfaces;
+using Api.Infrastructure.Persistence;
+using Api.Infrastructure.Repositories;
+using Api.Services.Commands;
+using Api.Services.Dtos;
+using Api.Services.Handlers;
 using MediatR;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,15 +16,10 @@ namespace Api.CrossCutting.Ioc
         public static void RegisterServices(IServiceCollection services, IConfiguration configuration)
         {
             MongoDbPersistence.Configure();
-
-            services.AddScoped<IUserService, UserService>();
             services.AddScoped<IMongoDbClient, MongoDbClient>();
             services.AddScoped<IUserRepository, UserRepository>();
-
-            services.AddScoped<IRequestHandler<CreateUserCommand, CommandReturnDto>, CreateUserCommandHandler>();
-            services.AddScoped<IRequestHandler<UpdateUserCommand, CommandReturnDto>, UpdateUserCommandHandler>();
-            services.AddScoped<IRequestHandler<RemoveUserCommand, CommandReturnDto>, RemoveUserCommandHandler>();
-
+            
+            services.AddScoped<IRequestHandler<CreateUserCommand, UserDto>, CreateUserCommandHandler>();
         }
     }
 }
