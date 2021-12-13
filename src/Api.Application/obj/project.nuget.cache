@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6wnrTWJG8g7g8S6OqGrw75CZUm4hNXqgpxIfwKzvsvhV8eca2qeZ22GP1Gqt5BAsTsssWRLEkVnKmYOpraxXEQ==",
+  "dgSpecHash": "dhJ/PSuOw7R0fIhMZz0+cfQJevUfJNZvOELNPIjzwX0KuVyYafKpEl+qVDPtK4oQbQiReCi9O/HO8Eu2ojyrrQ==",
   "success": true,
-  "projectFilePath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Application\\Api.Application.csproj",
+  "projectFilePath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Application\\Api.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

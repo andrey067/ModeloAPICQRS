@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Api.Services.Dtos
+namespace Api.Application.ViewModels
 {
-    public class UserDto
+    public class UpdateUserViewModel
     {
         public string Id { get; set; }
         public string FirstName { get; set; }
@@ -11,6 +11,6 @@ namespace Api.Services.Dtos
         public DateTime BirthDate { get; set; }
         public DateTime DateRegister { get; set; }
         public string EmailAddress { get; set; }
-        public bool Verified { get; set; }        
+        public bool Verified { get; set; }
     }
 }

@@ -5,9 +5,7 @@ using MongoDB.Bson;
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Api.Infrastructure.Repositories
@@ -29,53 +27,16 @@ namespace Api.Infrastructure.Repositories
             return obj;
         }
 
-        public Task<T> Get(long id)
+        public async Task<T> Get(string id) => await DbSet.Find(x => x.Id.Equals(id)).FirstOrDefaultAsync();
+
+        public async Task<List<T>> Get() => await DbSet.AsQueryable().ToListAsync();
+
+        public async Task Remove(string id) => await DbSet.DeleteOneAsync(x => x.Id.Equals(ObjectId.Parse(id)));
+
+        public async Task<T> Update(T obj)
         {
-            throw new NotImplementedException();
+            Expression<Func<T, bool>> filter = x => x.Id.Equals(ObjectId.Parse(obj.Id));
+            return await DbSet.FindOneAndReplaceAsync(filter, obj);
         }
-
-        public Task<List<T>> Get()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task Remove(long id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<T> Update(T obj)
-        {
-            throw new NotImplementedException();
-        }
-
-        //public virtual async Task Create(T obj)
-        //{
-        //    await DbSet.InsertOneAsync(obj);
-        //}
-
-        //public virtual async Task<T> Get(string id)
-        //{
-        //    return await DbSet.Find(T => T.Id == id).FirstOrDefaultAsync();
-        //}
-
-        //public async Task<List<T>> GetAll()
-        //{
-        //    return await DbSet.AsQueryable().ToListAsync();
-        //}
-
-        //public async Task Remove(string id)
-        //{
-        //    Expression<Func<T, bool>> filter = x => x.Id.Equals(ObjectId.Parse(id));
-        //    DeleteResult deleteResult = await DbSet.DeleteOneAsync(filter);
-        //}
-
-        //public async Task Update(T obj)
-        //{
-        //    Expression<Func<T, bool>> filter = x => x.Id.Equals(ObjectId.Parse(obj.Id));
-        //    var result = await DbSet.Find(filter).FirstOrDefaultAsync();
-        //    if (result != null)
-        //        await DbSet.FindOneAndReplaceAsync(filter, obj);
-        //}
     }
 }

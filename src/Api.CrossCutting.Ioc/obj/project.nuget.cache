@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "klE7xTFMRSzf7PL5Bszr+Q087ByAB25S5qvS2oY/XylU8QCKKAmSpejZcMpWWU+3UYqf4BOTQOtJYUJOO0bF3w==",
+  "dgSpecHash": "3EW6NYZe2jvkXf9C6BX2rvuZkT7DuPh0Evo7MwjmCShmPkWwXaneWk4cO5xmnzijnSwLXVRsFP5RiuJWhZZB6w==",
   "success": true,
-  "projectFilePath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
+  "projectFilePath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

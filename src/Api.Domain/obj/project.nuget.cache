@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4NN6axxHGWoS50QI0Nf0PszV6C9LZZhnTiPqBBR+PQjk+8nBrQXgl75sdEDLr5qPwtHzsTtEPh5tmhZwyfg6Q==",
+  "dgSpecHash": "i7XPrFEzNmmnLJJlG6kEoN/vwhk3xaYd2RY0ILQyylcEXNgS4LZo4YSM+RyjmZsR+IyWkEKiXOnum/d7szJUqw==",
   "success": true,
-  "projectFilePath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Domain\\Api.Domain.csproj",
+  "projectFilePath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Domain\\Api.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

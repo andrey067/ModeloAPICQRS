@@ -23,6 +23,7 @@ namespace Api.Services.Handlers
 
         public async Task<UserDto> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
+            //TODO - adicionar failfast Validation
             var userExist = await _userRepository.GetByEmail(request.Email.Address);
             if (userExist != null)
                 throw new DomainException("Já existe um usuário cadastrado com o email informado.");
@@ -36,9 +37,10 @@ namespace Api.Services.Handlers
                 .WithVerified(true)
                 .CreateUserBuilder();
 
-            await _userRepository.Create(user);
-            var result = _mapper.Map<UserDto>(user);
-            return await Task.FromResult(result);
+            if (!user.Validate())
+                throw new DomainException("Alguns campos não são validos");
+
+            return await Task.FromResult(_mapper.Map<UserDto>(_userRepository.Create(user)));
         }
     }
 }

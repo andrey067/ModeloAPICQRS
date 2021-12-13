@@ -37,17 +37,14 @@ namespace Api.Application
                     Version = "v1",
                     Title = "Api Usando CQRS",
                     Description = "Api desenvolvida, aplicando conhecimento apreendido.",
-                    TermsOfService = new Uri(""),
                     Contact = new OpenApiContact
                     {
                         Name = "Audrey Ernesto de Lima",
-                        Email = "audrey.ernesto.lima@gmail.com",
-                        Url = new Uri("")
+                        Email = "audrey.ernesto.lima@gmail.com"
                     },
                     License = new OpenApiLicense
                     {
-                        Name = "Termo de Licença de Uso",
-                        Url = new Uri("")
+                        Name = "Termo de Licença de Uso"
                     }
                 });
             });

@@ -1090,11 +1090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Application\\Api.Application.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Application\\Api.Application.csproj",
       "projectName": "Api.Application",
-      "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Application\\Api.Application.csproj",
+      "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Application\\Api.Application.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Application\\obj\\",
+      "outputPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1117,8 +1117,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj": {
-              "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj"
+            "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj": {
+              "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj"
             }
           }
         }

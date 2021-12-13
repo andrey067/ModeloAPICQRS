@@ -807,11 +807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
+      "projectUniqueName": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
       "projectName": "Api.CrossCutting.Ioc",
-      "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
+      "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Ioc\\Api.CrossCutting.Ioc.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.CrossCutting.Ioc\\obj\\",
+      "outputPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.CrossCutting.Ioc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -834,11 +834,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
-              "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
+            "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj": {
+              "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Infrastructure\\Api.Infrastructure.csproj"
             },
-            "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj": {
-              "projectPath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj"
+            "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Services\\Api.Services.csproj": {
+              "projectPath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Services\\Api.Services.csproj"
             }
           }
         }

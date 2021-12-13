@@ -8,8 +8,8 @@ namespace Api.Infrastructure.Interfaces
     {
         Task<T> Create(T obj);
         Task<T> Update(T obj);
-        Task Remove(long id);
-        Task<T> Get(long id);
+        Task Remove(string id);
+        Task<T> Get(string id);
         Task<List<T>> Get();
     }
 }

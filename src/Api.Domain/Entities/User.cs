@@ -1,8 +1,9 @@
 using Api.Core.Exceptions;
 using Api.Domain.Entities.ValeuObjects;
-using Api.Domain.Entities.Validators;
 using Api.Domain.Entities.ValueObject;
+using Api.Domain.Validators;
 using System;
+using System.Collections.Generic;
 
 namespace Api.Domain.Entities
 {
@@ -23,9 +24,10 @@ namespace Api.Domain.Entities
             setOccupation(occupation);
             setBirthDate(birthDate);
             setDateRegister(dateRegister);
-            setEmail(email);
+            setEmail(email.Address);
             setVerified(verified);
-
+            _errors = new List<string>();
+            Validate();
         }
 
         public User(Name name, string occupation, DateTime birthDate, DateTime dateRegister, Email email, bool verified)
@@ -35,32 +37,30 @@ namespace Api.Domain.Entities
             setOccupation(occupation);
             setBirthDate(birthDate);
             setDateRegister(dateRegister);
-            setEmail(email);
+            setEmail(email.Address);
             setVerified(verified);
+            _errors = new List<string>();
+            Validate();
         }
 
-        public void setNome(Name name) => Name = name;
+        public void setNome(Name name) => Name = new Name(name.FirstName, name.LastName);
         public void setOccupation(string ocupation) => Occupation = ocupation;
         public void setBirthDate(DateTime birthDate) => BirthDate = birthDate;
         public void setDateRegister(DateTime dateRegister) => DateRegister = dateRegister;
-        public void setEmail(Email email) => Email = email;
+        public void setEmail(string email) => Email = new Email(email);
         public void setVerified(bool verified) => Verified = verified;
 
         public override bool Validate()
         {
-            var validator = new UserValidators();
+            var validator = new UserValidator();
             var validation = validator.Validate(this);
 
-            //Pega os erros na camada de dominio
             if (!validation.IsValid)
             {
-                if (!validation.IsValid)
-                {
-                    foreach (var error in validation.Errors)
-                        _errors.Add(error.ErrorMessage);
+                foreach (var error in validation.Errors)
+                    _errors.Add(error.ErrorMessage);
 
-                    throw new DomainException("Alguns campos estão inválidos, por favor corrija-os!", _errors);
-                }
+                throw new DomainException("Alguns campos estão inválidos, por favor corrija-os!", _errors);
             }
             return true;
         }

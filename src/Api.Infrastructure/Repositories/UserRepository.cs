@@ -4,9 +4,7 @@ using Api.Infrastructure.Interfaces;
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Api.Infrastructure.Repositories
@@ -25,14 +23,16 @@ namespace Api.Infrastructure.Repositories
             return await DbSet.Find(filter).FirstOrDefaultAsync();
         }
 
-        public Task<List<User>> SearchByEmail(string email)
+        public async Task<List<User>> SearchByEmail(string email)
         {
-            throw new NotImplementedException();
+            Expression<Func<User, bool>> filter = x => x.Email.Address.Equals(email);
+            return await DbSet.Find(filter).ToListAsync<User>();
         }
 
-        public Task<List<User>> SearchByName(string name)
+        public async Task<List<User>> SearchByName(string name)
         {
-            throw new NotImplementedException();
+            Expression<Func<User, bool>> filter = x => x.Name.FirstName.Contains(name) || x.Name.LastName.Contains(name);
+            return await DbSet.Find(filter).ToListAsync<User>();
         }
     }
 }

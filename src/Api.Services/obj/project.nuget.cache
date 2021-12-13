@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "36e5wm3Aia+z0iFRgROgCZY79uj4xO0MkgQKwSDMTU/eobVLya1f/Dt88HObfY5Eu2T4E5/8sRUd5hHIczBh2w==",
+  "dgSpecHash": "fPfW9rTAU8o+Vv55i3S108ttKy9teqOb4wpqSBQ6ihQqenhAh3dzxtlX9Rx/VzWUYZFgy304zWAtzcsd8KsfWA==",
   "success": true,
-  "projectFilePath": "H:\\Meu Drive\\ModeloApi_MongoDb\\src\\Api.Services\\Api.Services.csproj",
+  "projectFilePath": "H:\\Meu Drive\\ModeloAPI_CQRS\\ModeloAPI_CQRS\\src\\Api.Services\\Api.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

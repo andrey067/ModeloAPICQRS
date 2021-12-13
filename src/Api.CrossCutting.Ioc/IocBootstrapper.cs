@@ -18,8 +18,9 @@ namespace Api.CrossCutting.Ioc
             MongoDbPersistence.Configure();
             services.AddScoped<IMongoDbClient, MongoDbClient>();
             services.AddScoped<IUserRepository, UserRepository>();
-            
+
             services.AddScoped<IRequestHandler<CreateUserCommand, UserDto>, CreateUserCommandHandler>();
+            services.AddScoped<IRequestHandler<UpdateUserCommand, UserDto>, UpdateUserCommandHandler>();
         }
     }
 }

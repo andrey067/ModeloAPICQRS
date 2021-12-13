@@ -13,7 +13,7 @@ namespace Api.Application.AutoMapperConfig
 
             CreateMap<User, UserDto>().ReverseMap();
             CreateMap<CreateUserViewModel, CreateUserCommand>().ReverseMap();
-            //cfg.CreateMap<UpdateUserViewModel, UserDTO>().ReverseMap();
+            CreateMap<UpdateUserViewModel, UpdateUserCommand>().ReverseMap();
 
 
             CreateMap<User, UserDto>().ConvertUsing<UserDtoFromUserDomainConverter>();

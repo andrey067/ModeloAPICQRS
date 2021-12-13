@@ -48,5 +48,32 @@ namespace Api.Application.Controller
                 return StatusCode(500, Responses.ApplicationErrorMessage(ex.Message));
             }
         }
+
+        [HttpPut]
+        [Route("/api/v1/users/update")]
+        public async Task<IActionResult> Update([FromBody] UpdateUserViewModel userViewModel)
+        {
+            try
+            {
+                var userDTO = _mapper.Map<UpdateUserCommand>(userViewModel);
+
+                var userUpdated = await _mediator.Send(userDTO);
+
+                return Ok(new ResultViewModel
+                {
+                    Message = "Usuário atualizado com sucesso!",
+                    Success = true,
+                    Data = userUpdated
+                });
+            }
+            catch (DomainException ex)
+            {
+                return BadRequest(Responses.DomainErrorMessage(ex.Message, ex.Errors));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex);
+            }
+        }
     }
 }
