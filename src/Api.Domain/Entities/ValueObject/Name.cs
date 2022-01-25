@@ -1,6 +1,6 @@
 namespace Api.Domain.Entities.ValueObject
 {
-    public class Name
+    public sealed class Name
     {
         public Name(string firstName, string lastName)
         {

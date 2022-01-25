@@ -28,3 +28,15 @@ H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.D
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
 H:\Meu Drive\ModeloAPI_CQRS\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.AssemblyReference.cache
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
+D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb

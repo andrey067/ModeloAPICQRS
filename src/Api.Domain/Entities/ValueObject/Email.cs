@@ -1,6 +1,6 @@
 namespace Api.Domain.Entities.ValeuObjects
 {
-    public class Email
+    public sealed class Email
     {
         public Email(string address)
         {
