@@ -40,3 +40,15 @@ D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
 D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
 D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\ref\Api.Domain.dll
 D:\Projetos\ModeloApi_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.deps.json
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.dll
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\bin\Debug\net5.0\Api.Domain.pdb
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.AssemblyReference.cache
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfoInputs.cache
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.AssemblyInfo.cs
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.dll
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\refint\Api.Domain.dll
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\Api.Domain.pdb
+E:\Projetos\ModeloAPI_CQRS\src\Api.Domain\obj\Debug\net5.0\ref\Api.Domain.dll
